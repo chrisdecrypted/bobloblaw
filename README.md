@@ -8,4 +8,4 @@ It's pretty basic, but there is a little more than meets the eye:
 + Installed necessary PHP, Apache, and MariaDB files
 + Created WordPress database
 + Configured host
-+ Pointed instance IP to wordpress.christopher-murray.com subdomain
++ Pointed instance IP to http://wordpress.christopher-murray.com subdomain
